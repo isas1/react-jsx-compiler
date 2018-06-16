@@ -1,0 +1,28 @@
+body {
+	font-family: monospace;
+	font-size: 18px;
+}
+header {
+	height: 20vh;
+	background: #C51162;
+	color: white;
+	overflow:scroll;
+}
+
+.container {
+	height: 95vh;
+	display: flex;
+}
+
+pre {
+	background: #03DAC6;
+	overflow: visible;
+}
+
+textarea, pre {
+	width: 49%;
+	font-family: monospace;
+	font-size: 18px;
+	margin: 0;
+	padding: 10;
+}
