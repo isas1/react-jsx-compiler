@@ -1,1 +1,1 @@
-# React-JSX comiler
+# React-JSX compiler
