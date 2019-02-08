@@ -1,1 +1,3 @@
-# React-JSX comiler
+# React-JSX compiler
+
+Write JSX, see JS :)
